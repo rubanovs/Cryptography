@@ -1,4 +1,4 @@
-import src.Runner as Runner
+import src.runner as runner
 
-runner = Runner.Runner()
+runner = runner.Runner()
 runner.run()
