@@ -1,11 +1,11 @@
-import src.Consts as Consts
+import src.consts as consts
 
 
-class Caesar:
+class caesar:
     def __init__(self, shift):
         self.shift = shift
         self.alphabet = [symbol for symbol in
-                         (chr(i) for i in range(Consts.Constants.first_symbol, Consts.Constants.last_symbol))]
+                         (chr(i) for i in range(consts.Constants.first_symbol, consts.Constants.last_symbol))]
 
     def encrypt(self, filename):
         with open(filename, 'r') as f:
@@ -14,7 +14,7 @@ class Caesar:
         for letter in text:
             if letter in self.alphabet:
                 place = self.alphabet.index(letter)
-                new_place = (place + self.shift) % Consts.Constants.alphabet_len
+                new_place = (place + self.shift) % consts.Constants.alphabet_len
                 encrypted_text += self.alphabet[new_place]
             else:
                 encrypted_text += letter
@@ -28,7 +28,7 @@ class Caesar:
         for letter in text:
             if letter in self.alphabet:
                 place = self.alphabet.index(letter)
-                new_place = (place - self.shift) % Consts.Constants.alphabet_len
+                new_place = (place - self.shift) % consts.Constants.alphabet_len
                 decrypted_text += self.alphabet[new_place]
             else:
                 decrypted_text += letter
