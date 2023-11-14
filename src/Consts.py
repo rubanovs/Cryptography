@@ -1,5 +1,5 @@
 class Constants:
-    alphabet_len = 99
+    alphabet_len = 95
     number_of_args = 5
     first_symbol = 32
     last_symbol = 127
