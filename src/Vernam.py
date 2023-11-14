@@ -1,11 +1,11 @@
-import src.Consts as Consts
+import src.consts as consts
 
 
 class Vernam:
 
     def __init__(self):
         self.alphabet = [symbol for symbol in
-                         (chr(i) for i in range(Consts.Constants.first_symbol, Consts.Constants.last_symbol))]
+                         (chr(i) for i in range(consts.Constants.first_symbol, consts.Constants.last_symbol))]
 
     def encrypt(self, filename, key_filename):
         with open(filename, 'r') as f:
@@ -22,7 +22,7 @@ class Vernam:
                 place = self.alphabet.index(letter)
                 key_place = self.alphabet.index(key[index % key_len])
                 new_place = place ^ key_place
-                encrypted_message += self.alphabet[new_place % Consts.Constants.alphabet_len]
+                encrypted_message += self.alphabet[new_place % consts.Constants.alphabet_len]
             else:
                 encrypted_message += letter
 
