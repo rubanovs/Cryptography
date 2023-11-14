@@ -1,8 +1,8 @@
 import sys
-import src.Caesar as Caesar
-import src.Vigenere as Vigenere
-import src.Vernam as Vernam
-import src.Consts as Consts
+import src.caesar as caesar
+import src.vigenere as vigenere
+import src.vernam as vernam
+import src.consts as consts
 
 
 class Runner:
