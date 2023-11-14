@@ -1,7 +1,7 @@
 import src.consts as consts
 
 
-class caesar:
+class Caesar:
     def __init__(self, shift):
         self.shift = shift
         self.alphabet = [symbol for symbol in
