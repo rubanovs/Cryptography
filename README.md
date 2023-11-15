@@ -12,4 +12,17 @@
 
 4-й параметр - в случае шифра Цезаря - длина сдвига, иначе - название файла ключа
 
+Шифрование и дешифрование методом Цезаря
 ![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_2_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_2_2023-11-15_22-21-52.jpg)
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_8_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_8_2023-11-15_22-21-52.jpg)
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_4_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_4_2023-11-15_22-21-52.jpg)
+
+Шифрование и дешиффрование методом Виженера
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_6_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_6_2023-11-15_22-21-52.jpg)
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_3_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_3_2023-11-15_22-21-52.jpg)
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_9_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_9_2023-11-15_22-21-52.jpg)
+
+Шифрование и дешифрование методом Вернама
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_7_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_7_2023-11-15_22-21-52.jpg)
+![]()
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_1_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_1_2023-11-15_22-21-52.jpg)
