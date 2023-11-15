@@ -12,4 +12,4 @@
 
 4-й параметр - в случае шифра Цезаря - длина сдвига, иначе - название файла ключа
 
-! [](pictures/photo_2_2023-11-15_22-21-52.jpg)
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_2_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_2_2023-11-15_22-21-52.jpg)
