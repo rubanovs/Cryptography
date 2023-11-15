@@ -24,5 +24,5 @@
 
 Шифрование и дешифрование методом Вернама
 ![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_7_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_7_2023-11-15_22-21-52.jpg)
-![]()
+![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_2023-11-15_23-00-08.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_2023-11-15_23-00-08.jpg)
 ![https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_1_2023-11-15_22-21-52.jpg](https://github.com/rubanovs/Cryptography/blob/dev/pictures/photo_1_2023-11-15_22-21-52.jpg)
